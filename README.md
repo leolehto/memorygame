@@ -1,10 +1,10 @@
 # Memory Game
 
-A simple memory game built with React.
+A simple memory game built with React on a boring day.
 
 ## Demo
 
-You can play the game at "https://leolehto.github.io/memorygame"
+You can play the game at https://leolehto.github.io/memorygame
 
 ## Features
 
