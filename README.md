@@ -4,7 +4,7 @@ A simple memory game built with React.
 
 ## Demo
 
-You can play the game [here](https://<your-username>.github.io/<repository-name>).
+You can play the game at "https://leolehto.github.io/memorygame"
 
 ## Features
 
