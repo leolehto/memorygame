@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import Card from './Card';
 
-const names = ["Juventus", "Barcelona", "Real Madrid", "Ajax", "Chelsea", "Dortmund", "Benfica", "Gnistan"];
+const names = ["Juventus", "Barcelona", "Real Madrid", "Ajax", "Chelsea", "Dortmund", "Benfica", "Gnistan", "Tottenham"];
 
 const shuffleArray = (array: any[]) => {
   for (let i = array.length - 1; i > 0; i--) {
